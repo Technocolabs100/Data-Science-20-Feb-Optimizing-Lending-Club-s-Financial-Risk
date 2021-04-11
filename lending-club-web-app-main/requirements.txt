@@ -1,0 +1,9 @@
+numpy>=1.9.2
+flask==1.1.2
+itsdangerous==1.1.0
+gunicorn==19.9.0
+requests==2.25.1
+jinja2==2.11.3
+markupsafe==1.1.1
+Werkzeug==0.15.5
+scikit-optimize==0.8.1
