@@ -8,5 +8,5 @@
   
   - Using Flask Framework Deployed Web Application picture:
  
-  - ![image](https://user-images.githubusercontent.com/63509618/114299006-bbd66180-9ad6-11eb-91e7-3e27edc58f3e.png)
+  ![image](https://user-images.githubusercontent.com/63509618/114299006-bbd66180-9ad6-11eb-91e7-3e27edc58f3e.png)
  
